@@ -50,6 +50,9 @@ void playEnemy(std::array<char, 9>& arr, char play){
     }
   }
 }
+void minMax(std::array<char, 9>& arr, char play){
+  
+}
 
 char match(std::array<char, 9>& arr, char shape, char Eshape){
   bool finish = false;
